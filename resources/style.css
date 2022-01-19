@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+  font-family: 'Open sans', sans-serif;
+}
+body {
+  background:  #4B2B95;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 3px 5px 7px black;
+  margin: 10px;
+  padding: 10px;
+}
+.basictitle {
+  font-size: 18px;
+}
+
+.htmltable {
+  display: block;
+  text-align: left;
+  width: 750px;
+  left: 10%;
+  border-collapse: collapse;
+  background: #d99b2d;
+  box-shadow: 5px 3px 10px 4px #240a5f;
+  margin-left: auto;
+  margin-right: auto;
+}
+th, td {
+  border: 2px solid #4b2b95;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  text-shadow: 3px 5px 7px black;
+  font-size: 32px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.csstable {
+  display: block;
+  text-align: left;
+  width: 700px;
+  top: 600px;
+  left: 15%;
+  border-collapse: collapse;
+  background: #CCD72C;
+  box-shadow: 5px 3px 10px 4px #240a5f;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  text-align: center;
+  padding-top: 50px;
+  color: white;
+  font-size: 10px;
+  text-shadow: 1px 1px 5px black;
+}
+
+
